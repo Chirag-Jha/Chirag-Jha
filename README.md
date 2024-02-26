@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Any Project**
 
-- 📝 I like to Talk about [Philosophy and Nature](Philosophy and Nature)
+- 📝 I like to Talk about Philosophy and Nature
 
 - 📫 How to reach me **freeviwes99@gmail.com**
 
