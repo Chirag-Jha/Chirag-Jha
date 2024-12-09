@@ -23,6 +23,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂 Random Dev Meme
-<img src='[https://codermemes.vercel.app/#1](https://codermemes.vercel.app/#1)' style="height: 400px;"/>
+<img src='[https://codermemes.vercel.app/#1]' style="height: 400px;"/>
 
 
